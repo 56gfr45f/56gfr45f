@@ -1,7 +1,3 @@
-# Author: Kunal Kumar
-# Social: twitter.com/l1v1n9h311, instagram.com/prokunal
-# Website: procoder.in
-
 from pytube import YouTube
 from pytube import Playlist
 from math import ceil
